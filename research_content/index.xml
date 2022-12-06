@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research_contents on Yi Jia Liow</title>
+    <link>https://liowyijia.github.io/research_content/</link>
+    <description>Recent content in Research_contents on Yi Jia Liow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://liowyijia.github.io/research_content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dietary fiber induces fat preference via the gut microbiota</title>
+      <link>https://liowyijia.github.io/research_content/food_pref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research_content/food_pref/</guid>
+      <description>Abstract Eating behavior is essential to human health. However, whether future eating behavior is subjected to the conditioning of precedent dietary composition is unknown. This study aimed to investigate the effect of dietary fiber consumption on subsequent nutrient-specific food preference between palatable high-fat and high-sugar diets and explore its correlation with the gut microbiota. Specific pathogen-free mice were subjected to a dietary intervention and fed either a control or an inulin diet.</description>
+    </item>
+    
+    <item>
+      <title>Food choice motives of the Japanese population</title>
+      <link>https://liowyijia.github.io/research_content/field_nagasaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research_content/field_nagasaki/</guid>
+      <description>Abstract Japan has undergone dietary transition and adopted domestication of the West in their dietary practices in the contemporary era. However, rural parts of Japan still preserve traditional foodways characterized by extensive use of fermentation products and consumption of fresh produce in contrast to increasing consumption of animal products and processed foods in the urban areas. The present study utilizes a translated Food Choice Questionnaire (FQC) tailored to the Japanese population, and qualitative data from field study to investigate the underlying motivations behind food consumption of the Japanese population residing in the rural area of Nagasaki city.</description>
+    </item>
+    
+    <item>
+      <title>Rural vs urban Mongolia on the gut microbiome</title>
+      <link>https://liowyijia.github.io/research_content/mongolian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research_content/mongolian/</guid>
+      <description>Abstract The use of dairy products is ubiquitous in Mongolia as part of their dietary adaptation strategy. Consumption of dairy products enriches genus Bifidobacterium in the human gut. Working with Dr. Christina Warinner and Dr. Alexander Hüebner, we are investigating the impact of urbanization on gut microbiome composition of the Mongolian population in relation to lactase persistence using MetaPhlAn and the MaAsLin2 package.</description>
+    </item>
+    
+    <item>
+      <title>Westernization of diet on subsequent eating behavior</title>
+      <link>https://liowyijia.github.io/research_content/westernization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research_content/westernization/</guid>
+      <description>Abstract Human eating behavior is governed by the homeostatic (eating for metabolic needs) and hedonic (eating for pleasure) systems, two distinct but overlapping circuits that have evolutionary basis in motivating human appetite. Westernization of dietary composition tilts the balance away from homeostatic towards hedonic eating, resulting in the rise of pathological eating behaviors. Extensive literature has demonstrated robust association between dietary composition and homeostatic eating, but little is known about the impact of precedent dietary composition on subsequent food preference.</description>
+    </item>
+    
+  </channel>
+</rss>

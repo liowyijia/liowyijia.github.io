@@ -1,0 +1,74 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Jia Liow on Yi Jia Liow</title>
+    <link>https://liowyijia.github.io/</link>
+    <description>Recent content in Yi Jia Liow on Yi Jia Liow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://liowyijia.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biography</title>
+      <link>https://liowyijia.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/about/</guid>
+      <description>&lt;p&gt;Hello! I am a fellow at Harvard University after receiving my master&amp;rsquo;s from the University of Tokyo in 2022. My research focuses on the relationship between food culture, gut microbiota, and eating behavior.
+&lt;br&gt;
+&lt;br&gt;
+Currently I am looking into the effects of Westernization on food preference through the route of gut-brain axis. In my master&amp;rsquo;s thesis, I investigated the effect of dietary fiber consumption on food preference mediated by the gut microbiota.
+&lt;br&gt;
+&lt;br&gt;
+In Japan, I am affiliated with the &lt;a href=&#34;http://www.humeco.m.u-tokyo.ac.jp/&#34;&gt;Department of Human Ecology&lt;/a&gt; at the University of Tokyo and &lt;a href=&#34;https://www.riken.jp/en/research/labs/ims/microbiome_sci/index.html#:~:text=The%20aim%20of%20the%20microbiome,and%20various%20symbiotic%20communities%20in&#34;&gt;Laboratory of Microbiome Sciences&lt;/a&gt; at the RIKEN Center for Integrative Medical Sciences. At Harvard University, I am affiliated with the &lt;a href=&#34;https://nme.fas.harvard.edu/&#34;&gt;Nutrition &amp;amp; Microbial Ecology Laboratory&lt;/a&gt; in the &lt;a href=&#34;https://heb.fas.harvard.edu/&#34;&gt;Department of Human Evolutionary Biology&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://liowyijia.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research/</guid>
+      <description>&lt;h3 id=&#34;westernization-of-diet-on-subsequent-eating-behavior&#34;&gt;Westernization of diet on subsequent eating behavior&lt;/h3&gt;
+&lt;p&gt;Effects of Westernization of dietary composition on downstream eating behavior via the gut-brain axis. (&lt;a href=&#34;../research_content/westernization/&#34;&gt;more&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;rural-vs-urban-mongolia-on-microbiota-composition&#34;&gt;Rural vs urban Mongolia on microbiota composition&lt;/h3&gt;
+&lt;p&gt;Urbanization on the microbiome of the Mongolian population related to lactase persistence. (&lt;a href=&#34;../research_content/mongolian/&#34;&gt;more&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;dietary-fiber-induces-fat-preference-via-the-gut-microbiota&#34;&gt;Dietary fiber induces fat preference via the gut microbiota&lt;/h3&gt;
+&lt;p&gt;Consumption of soluble dietary fiber inulin alters gut microbiota composition and influences food preference. (&lt;a href=&#34;../research_content/food_pref/&#34;&gt;more&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;food-choice-motives-of-the-japanese-population&#34;&gt;Food choice motives of the Japanese population&lt;/h3&gt;
+&lt;p&gt;Investigation of the underlying attitudes and food choice motives of the elderly Japanese population. (&lt;a href=&#34;../research_content/field_nagasaki/&#34;&gt;more&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research_contents</title>
+      <link>https://liowyijia.github.io/research_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/research_content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://liowyijia.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/teaching/</guid>
+      <description>&lt;h3 id=&#34;human-evolution-and-human-health&#34;&gt;Human Evolution and Human Health&lt;/h3&gt;
+&lt;p&gt;Instructor: &lt;a href=&#34;https://scholar.harvard.edu/dlieberman/home&#34;&gt;&lt;strong&gt;Daniel Lieberman&lt;/strong&gt;&lt;/a&gt;
+&lt;br&gt;
+Application of the principle of evolution to improve health and well-being in the post-industrial era. (&lt;a href=&#34;https://gened.fas.harvard.edu/classes/human-evolution-and-human-health&#34;&gt;Course link&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;introduction-to-quantitative-social-science&#34;&gt;Introduction to Quantitative Social Science&lt;/h3&gt;
+&lt;p&gt;Instructor: &lt;a href=&#34;https://imai.fas.harvard.edu/&#34;&gt;&lt;strong&gt;Kosuke Imai&lt;/strong&gt;&lt;/a&gt;
+&lt;br&gt;
+Introductory level course to data analysis in social science with R. (&lt;a href=&#34;https://kosukeimai.github.io/qss-todai/&#34;&gt;Course link&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;speaking-of-nutrition&#34;&gt;Speaking of Nutrition&lt;/h3&gt;
+&lt;p&gt;Instructor: &lt;a href=&#34;https://liowyijia.github.io/&#34;&gt;&lt;strong&gt;Yi Jia Liow&lt;/strong&gt;&lt;/a&gt;
+&lt;br&gt;
+Cultivate skills in Japanese students to communicate nutrition and food science in English.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
