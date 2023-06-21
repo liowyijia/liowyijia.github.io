@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://liowyijia.github.io/photography_content/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Boston, U.S.</title>
-      <link>https://liowyijia.github.io/photography_content/boston/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://liowyijia.github.io/photography_content/boston/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>California, U.S.</title>
       <link>https://liowyijia.github.io/photography_content/california/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://liowyijia.github.io/photography_content/california/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>East Coast, U.S.</title>
+      <link>https://liowyijia.github.io/photography_content/boston/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liowyijia.github.io/photography_content/boston/</guid>
       <description> </description>
     </item>
     
