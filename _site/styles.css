@@ -1,0 +1,39 @@
+/* Subtle tweaks on top of the Cosmo theme. Edit freely. */
+
+:root {
+  --accent: #7a1b1b;            /* link / accent color */
+  --body-max: 760px;            /* comfortable reading width */
+}
+
+body {
+  color: #222;
+}
+
+main.content {
+  max-width: var(--body-max);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(122, 27, 27, 0.25);
+}
+a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* Tighter headings */
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+h2 {
+  margin-top: 2.2rem;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 0.3rem;
+}
+
+/* Navbar: keep it quiet */
+.navbar {
+  border-bottom: 1px solid #eaeaea;
+}

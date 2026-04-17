@@ -1,0 +1,34 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+**Title of Working Paper One** <br>
+*with [Coauthor Name](https://coauthor.example.com) and Another Coauthor* <br>
+[[PDF](files/paper1.pdf)] [[Code](https://github.com/liowyijia/paper1)] [[Slides](files/paper1-slides.pdf)]
+
+::: {.callout-note collapse="true" title="Abstract"}
+Brief abstract of the paper goes here. Quarto callouts are a clean way
+to hide long abstracts behind a click without breaking the page flow.
+:::
+
+**Title of Working Paper Two** <br>
+*Sole authored* <br>
+[[PDF](files/paper2.pdf)] [[Code](https://github.com/liowyijia/paper2)]
+
+::: {.callout-note collapse="true" title="Abstract"}
+Another abstract.
+:::
+
+## Publications
+
+**Title of Published Paper**. *Journal Name*, Year. <br>
+*with [Coauthor Name](https://coauthor.example.com)* <br>
+[[Journal](https://doi.org/xxx)] [[PDF](files/pub1.pdf)] [[Replication](https://github.com/liowyijia/pub1)]
+
+## Software
+
+**packagename** — An R package for [what it does]. <br>
+[[CRAN](https://cran.r-project.org/package=packagename)]
+[[GitHub](https://github.com/liowyijia/packagename)]

@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yi Jia Liow"
+  site-url: "https://liowyijia.github.io"
+  description: "Personal website of Yi Jia Liow."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: ceramics.qmd
+        text: Ceramics
+
+format:
+  html:
+    theme: cosmo                    # try: flatly, litera, yeti, journal, lumen
+    css: styles.css
+    toc: false
+    page-layout: article
+    fontsize: 1rem
+    linestretch: 1.6
+    link-external-newwindow: true
+    mainfont: "Source Sans Pro, system-ui, sans-serif"

@@ -1,0 +1,32 @@
+---
+title: "Ceramics"
+---
+
+A small gallery of pieces I've made. Ceramics is where I go when I want
+to think with my hands instead of my head.
+
+::: {layout-ncol=3}
+
+![Bowl, stoneware, 2024](pics/ceramics/piece1.jpg)
+
+![Vase, porcelain, 2024](pics/ceramics/piece2.jpg)
+
+![Cup set, stoneware, 2024](pics/ceramics/piece3.jpg)
+
+![Planter, stoneware, 2024](pics/ceramics/piece4.jpg)
+
+![Plate, porcelain, 2023](pics/ceramics/piece5.jpg)
+
+![Mug, stoneware, 2023](pics/ceramics/piece6.jpg)
+
+:::
+
+<!--
+HOW THIS WORKS
+- Add photos to pics/ceramics/ (any name, any JPG/PNG).
+- Each line above follows: ![caption](path-to-image)
+- layout-ncol=3 = 3 columns. Change to 2 or 4 if you prefer.
+- Images auto-resize to fit the column. Quarto lightbox is optional:
+  to enable click-to-zoom, add `lightbox: true` in the frontmatter above.
+- Delete this comment block once you're set up.
+-->

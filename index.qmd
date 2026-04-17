@@ -1,0 +1,32 @@
+---
+title: "Yi Jia Liow"
+about:
+  template: trestles          # try: jolla, solana, marquee, broadside
+  image: pics/headshot.jpg
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:you@example.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/yijialiow"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/liowyijia"
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
+---
+
+Hi! I am a postdoctoral researcher in the [Department of
+Something](https://example.edu) at **Your University**. I received my PhD
+from **Harvard University** in 2025.
+
+My research interests include *topic A*, *topic B*, and *topic C*. More
+broadly, I am interested in [one-sentence broader framing].
+
+Outside of research, I make [ceramics](ceramics.qmd).
+
+You can reach me at [you@example.edu](mailto:you@example.edu).
