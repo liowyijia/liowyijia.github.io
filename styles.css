@@ -33,6 +33,22 @@ h2 {
   padding-bottom: 0.3rem;
 }
 
+/* About page: larger icons, no border */
+.about-links .about-link {
+  padding: 0.3rem 0.5rem;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+.about-links .about-link .bi {
+  font-size: 1.6rem;
+}
+
+/* Ceramics gallery: spacing between images */
+.quarto-layout-cell {
+  padding: 0.5rem;
+}
+
 /* Navbar: keep it quiet */
 .navbar {
   border-bottom: 1px solid #eaeaea;
