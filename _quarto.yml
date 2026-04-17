@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - files/
+    - pics/
 
 website:
   title: "Yi Jia Liow"

@@ -7,26 +7,19 @@ about:
   image-width: 14em
   links:
     - icon: envelope
-      text: Email
-      href: "mailto:you@example.edu"
+      href: "mailto:yijia.liow@gmail.com"
     - icon: linkedin
-      text: LinkedIn
       href: "https://www.linkedin.com/in/yijialiow"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/liowyijia"
+    - icon: mortarboard-fill
+      href: "https://scholar.google.com/citations?user=YQuti1cAAAAJ&hl=en"
     - icon: file-earmark-pdf
-      text: CV
       href: files/cv.pdf
 ---
 
-Hi! I am a postdoctoral researcher in the [Department of
-Something](https://example.edu) at **Your University**. I received my PhD
-from **Harvard University** in 2025.
+I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. I received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.
 
-My research interests include *topic A*, *topic B*, and *topic C*. More
-broadly, I am interested in [one-sentence broader framing].
+My research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.
 
 Outside of research, I make [ceramics](ceramics.qmd).
 
-You can reach me at [you@example.edu](mailto:you@example.edu).
+You can reach me at [yijia.liow@gmail.com](mailto:yijia.liow@gmail.com).
