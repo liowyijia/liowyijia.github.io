@@ -16,10 +16,10 @@ about:
       href: files/cv.pdf
 ---
 
-I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. I received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.
+I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. My research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.
 
-My research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.
+I received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.
 
-Outside of research, I make [ceramics](ceramics.qmd).
+Outside of academia, I make [ceramics](ceramics.qmd).
 
 You can reach me at [yijia.liow@gmail.com](mailto:yijia.liow@gmail.com).

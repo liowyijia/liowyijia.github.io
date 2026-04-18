@@ -14,6 +14,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: ceramics.qmd
         text: Ceramics
 
@@ -27,3 +29,11 @@ format:
     linestretch: 1.6
     link-external-newwindow: true
     mainfont: "Source Sans Pro, system-ui, sans-serif"
+    include-after-body:
+      text: |
+        <script>
+        document.querySelectorAll('a[href$=".pdf"]').forEach(a => {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener');
+        });
+        </script>

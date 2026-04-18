@@ -1,34 +1,23 @@
 ---
-title: "Research"
+pagetitle: "Research | Yi Jia Liow"
 ---
-
-## Working Papers
-
-**Title of Working Paper One** <br>
-*with [Coauthor Name](https://coauthor.example.com) and Another Coauthor* <br>
-[[PDF](files/paper1.pdf)] [[Code](https://github.com/liowyijia/paper1)] [[Slides](files/paper1-slides.pdf)]
-
-::: {.callout-note collapse="true" title="Abstract"}
-Brief abstract of the paper goes here. Quarto callouts are a clean way
-to hide long abstracts behind a click without breaking the page flow.
-:::
-
-**Title of Working Paper Two** <br>
-*Sole authored* <br>
-[[PDF](files/paper2.pdf)] [[Code](https://github.com/liowyijia/paper2)]
-
-::: {.callout-note collapse="true" title="Abstract"}
-Another abstract.
-:::
 
 ## Publications
 
-**Title of Published Paper**. *Journal Name*, Year. <br>
-*with [Coauthor Name](https://coauthor.example.com)* <br>
-[[Journal](https://doi.org/xxx)] [[PDF](files/pub1.pdf)] [[Replication](https://github.com/liowyijia/pub1)]
+[**Industrialized diets modulate host eating behavior via the microbiome–gut–brain axis**](files/1-s2.0-S1043276025001250-main.pdf) <br>
+**Yi Jia Liow**, Amar Sarkar, Rachel N. Carmody <br>
+*Trends in Endocrinology & Metabolism*, 2026. Vol. 37, No. 2, pp. 164–179.
 
-## Software
+[**Dietary fiber induces a fat preference associated with the gut microbiota**](files/journal.pone.0305849.pdf) <br>
+**Yi Jia Liow**, Itsuka Kamimura, Masahiro Umezaki, Wataru Suda, Lena Takayasu <br>
+*PLOS ONE*, 2024. Vol. 19, No. 7, e0305849.
 
-**packagename** — An R package for [what it does]. <br>
-[[CRAN](https://cran.r-project.org/package=packagename)]
-[[GitHub](https://github.com/liowyijia/packagename)]
+## Dissertation
+
+Yi Jia Liow. 2026. **Diet shapes host eating behavior via the microbiome-gut-brain axis.** University of Tokyo.
+
+## Preprints
+
+[**Polyunsaturated fatty acids promote appetite via the microbiome-gut-brain axis**](files/nihpp-2025.07.29.667447v1.pdf) <br>
+**Yi Jia Liow**, Shusei Eshima, Mustafa Talay, Vladimir Yeliseyev, Lynn Bry, Rachel N. Carmody <br>
+*bioRxiv*, 2025.

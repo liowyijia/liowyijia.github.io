@@ -1,5 +1,5 @@
 ---
-title: "Ceramics"
+pagetitle: "Ceramics | Yi Jia Liow"
 lightbox: true
 ---
 
@@ -10,19 +10,19 @@ to think with my hands instead of my head.
 
 ![](pics/ceramics/DSC06650.jpg)
 
-![](pics/ceramics/DSC07286.jpg)
+![](pics/ceramics/DSC08916.jpg)
 
 ![](pics/ceramics/DSC08853.jpg)
 
 ![](pics/ceramics/DSC08896.jpg)
 
-![](pics/ceramics/DSC08916.jpg)
+![](pics/ceramics/DSC08313.jpg)
 
 ![](pics/ceramics/DSC08968.jpg)
 
 ![](pics/ceramics/DSC08971.jpg)
 
-![](pics/ceramics/DSC08980.jpg)
+![](pics/ceramics/DSC06836.jpg)
 
 ![](pics/ceramics/DSC08942.jpg)
 
