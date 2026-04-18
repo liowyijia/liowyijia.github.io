@@ -4,40 +4,47 @@
     "href": "index.html",
     "title": "Yi Jia Liow",
     "section": "",
-    "text": "I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. I received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.\nMy research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.\nOutside of research, I make ceramics.\nYou can reach me at yijia.liow@gmail.com."
+    "text": "I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. My research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.\nI received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.\nOutside of academia, I make ceramics.\nYou can reach me at yijia.liow@gmail.com."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Yi Jia Liow",
     "section": "",
-    "text": "Title of Working Paper One  with Coauthor Name and Another Coauthor  [PDF] [Code] [Slides]\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nBrief abstract of the paper goes here. Quarto callouts are a clean way to hide long abstracts behind a click without breaking the page flow.\n\n\n\nTitle of Working Paper Two  Sole authored  [PDF] [Code]\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nAnother abstract."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Title of Working Paper One  with Coauthor Name and Another Coauthor  [PDF] [Code] [Slides]\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nBrief abstract of the paper goes here. Quarto callouts are a clean way to hide long abstracts behind a click without breaking the page flow.\n\n\n\nTitle of Working Paper Two  Sole authored  [PDF] [Code]\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nAnother abstract."
+    "text": "Industrialized diets modulate host eating behavior via the microbiome–gut–brain axis  Yi Jia Liow, Amar Sarkar, Rachel N. Carmody  Trends in Endocrinology & Metabolism, 2026. Vol. 37, No. 2, pp. 164–179.\nDietary fiber induces a fat preference associated with the gut microbiota  Yi Jia Liow, Itsuka Kamimura, Masahiro Umezaki, Wataru Suda, Lena Takayasu  PLOS ONE, 2024. Vol. 19, No. 7, e0305849."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nTitle of Published Paper. Journal Name, Year.  with Coauthor Name  [Journal] [PDF] [Replication]"
+    "title": "Yi Jia Liow",
+    "section": "",
+    "text": "Industrialized diets modulate host eating behavior via the microbiome–gut–brain axis  Yi Jia Liow, Amar Sarkar, Rachel N. Carmody  Trends in Endocrinology & Metabolism, 2026. Vol. 37, No. 2, pp. 164–179.\nDietary fiber induces a fat preference associated with the gut microbiota  Yi Jia Liow, Itsuka Kamimura, Masahiro Umezaki, Wataru Suda, Lena Takayasu  PLOS ONE, 2024. Vol. 19, No. 7, e0305849."
   },
   {
-    "objectID": "research.html#software",
-    "href": "research.html#software",
-    "title": "Research",
-    "section": "Software",
-    "text": "Software\npackagename — An R package for [what it does].  [CRAN] [GitHub]"
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Yi Jia Liow",
+    "section": "Dissertation",
+    "text": "Dissertation\nYi Jia Liow. 2026. Diet shapes host eating behavior via the microbiome-gut-brain axis. University of Tokyo."
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Yi Jia Liow",
+    "section": "Preprints",
+    "text": "Preprints\nPolyunsaturated fatty acids promote appetite via the microbiome-gut-brain axis  Yi Jia Liow, Shusei Eshima, Mustafa Talay, Vladimir Yeliseyev, Lynn Bry, Rachel N. Carmody  bioRxiv, 2025."
+  },
+  {
+    "objectID": "teaching.html#university-of-tokyo",
+    "href": "teaching.html#university-of-tokyo",
+    "title": "Yi Jia Liow",
+    "section": "University of Tokyo",
+    "text": "University of Tokyo"
   },
   {
     "objectID": "ceramics.html",
     "href": "ceramics.html",
-    "title": "Ceramics",
+    "title": "Yi Jia Liow",
     "section": "",
     "text": "A small gallery of pieces I’ve made. Ceramics is where I go when I want to think with my hands instead of my head."
   }
