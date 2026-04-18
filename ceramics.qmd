@@ -3,8 +3,6 @@ pagetitle: "Ceramics | Yi Jia Liow"
 lightbox: true
 ---
 
-A small gallery of pieces I've made. Ceramics is where I go when I want
-to think with my hands instead of my head.
 
 ::: {layout-ncol=3}
 
