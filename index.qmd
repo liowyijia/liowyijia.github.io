@@ -16,10 +16,8 @@ about:
       href: files/cv.pdf
 ---
 
-I am a postdoctoral scholar in the Department of Gastroenterology at Duke University. My research focuses on gut sensing of dietary substrates and how that information is relayed to the brain.
+I am a postdoc in the [Bohórquez Lab](https://gutbrains.com/) at Duke University. I seek to understand how the gut senses dietary substrates and communicates with the brain, with the broader goal of understanding how industrialized diets shape behavior.
 
-I received my PhD from the University of Tokyo in 2026, where I examined how diet shapes host eating behavior via the microbiome-gut-brain axis.
+I earned my PhD in 2026 through the University of Tokyo while completing my research training as a Fellow at Harvard University, where I examined how diet influences eating behavior through the microbiome-gut-brain axis.
 
-Outside of academia, I make [ceramics](ceramics.qmd).
-
-You can reach me at [yijia.liow@gmail.com](mailto:yijia.liow@gmail.com).
+Beyond research, I make [ceramics](ceramics.qmd).
