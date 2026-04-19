@@ -3,6 +3,7 @@ pagetitle: "Ceramics | Yi Jia Liow"
 lightbox: true
 ---
 
+Follow along on [Instagram](https://www.instagram.com/iampotterclaire/).
 
 ::: {layout-ncol=3}
 

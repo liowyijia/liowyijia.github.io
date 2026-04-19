@@ -43,6 +43,12 @@ h2 {
 .about-links .about-link .bi {
   font-size: 1.6rem;
 }
+.about-links {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+}
 
 /* Ceramics gallery: spacing between images */
 .quarto-layout-cell {
@@ -52,4 +58,7 @@ h2 {
 /* Navbar: keep it quiet */
 .navbar {
   border-bottom: 1px solid #eaeaea;
+}
+.navbar a, .navbar a:hover {
+  border-bottom: none;
 }
