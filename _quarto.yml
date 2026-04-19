@@ -12,8 +12,6 @@ website:
   description: "Personal website of Yi Jia Liow."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
       - href: teaching.qmd
