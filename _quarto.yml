@@ -38,4 +38,11 @@ format:
           a.setAttribute('target', '_blank');
           a.setAttribute('rel', 'noopener');
         });
+        const links = document.querySelector('.about-links');
+        const contents = document.querySelector('.about-contents');
+        if (links && contents) {
+          const clone = links.cloneNode(true);
+          clone.classList.add('about-links-mobile');
+          contents.appendChild(clone);
+        }
         </script>

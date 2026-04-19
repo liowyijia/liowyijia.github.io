@@ -49,6 +49,32 @@ h2 {
   flex-wrap: wrap !important;
   justify-content: center !important;
 }
+/* Mobile: add padding above headshot */
+@media (max-width: 767px) {
+  .about-image {
+    margin-top: 1rem;
+  }
+}
+
+/* Mobile: hide original icons, show cloned ones after text */
+@media (max-width: 767px) {
+  .about-links:not(.about-links-mobile) {
+    display: none !important;
+  }
+  .about-links-mobile {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    margin-top: 1rem;
+  }
+}
+/* Desktop: hide the clone */
+@media (min-width: 768px) {
+  .about-links-mobile {
+    display: none !important;
+  }
+}
 
 /* Ceramics gallery: spacing between images */
 .quarto-layout-cell {
