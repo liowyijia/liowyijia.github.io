@@ -23,6 +23,7 @@ format:
   html:
     theme: cosmo                    # try: flatly, litera, yeti, journal, lumen
     css: styles.css
+    canonical-url: true             # emit <link rel="canonical"> so Google picks yijialiow.com
     toc: false
     page-layout: article
     fontsize: 1rem
