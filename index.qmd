@@ -16,7 +16,7 @@ about:
       href: files/cv.pdf
 ---
 
-I am an incoming postdoc in the [Bohórquez Lab](https://gutbrains.com/) at Duke University. I seek to understand how the gut senses dietary substrates and communicates with the brain, with the broader goal of understanding how diet shapes behavior.
+I am an incoming postdoc in the [Bohórquez Lab](https://gutbrains.com/) at Duke University. I seek to understand how the gut senses dietary substrates and communicates that information with the brain, with the broader goal of understanding how diet shapes behavior.
 
 I earned my PhD in 2026 through the University of Tokyo while completing my research training as a Fellow at Harvard University, where I examined how industrialized diets influence eating behavior through the microbiome-gut-brain axis.
 
